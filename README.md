@@ -1,3 +1,5 @@
+# LinkedIn-Connection-Data-Analysis
+
 This project explores my LinkedIn connection data to identify trends in networking, top companies, positions, and overall professional growth. The analysis includes cleaning and processing the data, visualizing key insights, and creating interactive network graphs to understand the structure and dynamics of my professional network.
 
 Key tasks performed in this project:
